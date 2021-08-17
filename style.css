@@ -1,0 +1,160 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    background-color: gray;
+
+    color:rgb(49, 47, 47);
+}
+
+h1{
+    margin-left:300px;
+}
+
+.gemuese{
+    background-color:rgb(169, 198, 209);
+    height: 850px;
+    width: 400px;
+    border-radius: 5px;
+    margin-left: 300px;
+    padding:20px;
+
+}
+
+.obst{
+    background-color:rgb(169, 198, 209);
+    height: 700px;
+    width: 400px;
+    border-radius: 5px;
+    margin-left: 300px;
+    padding:25px;
+    margin-top:20px;
+}
+
+.brot{
+    background-color:rgb(169, 198, 209);
+    height: 550px;
+    width: 400px;
+    border-radius: 5px;
+    margin-left: 300px;
+    padding:15px;
+    margin-top:20px;
+}
+
+
+.teigwaren{
+    background-color:rgb(169, 198, 209);
+    height: 450px;
+    width: 400px;
+    border-radius: 5px;
+    margin-left: 300px;
+    padding:15px;
+    margin-top:20px;
+}
+
+
+.wurst{
+    background-color:rgb(169, 198, 209);
+    height: 600px;
+    width: 400px;
+    border-radius: 5px;
+    margin-left: 300px;
+    padding:15px;
+    margin-top:20px;
+}
+
+.milch{
+    background-color:rgb(169, 198, 209);
+    height: 700px;
+    width: 400px;
+    border-radius: 5px;
+    margin-left: 300px;
+    padding:15px;
+    margin-top:20px;
+}
+
+.tk{
+    background-color:rgb(169, 198, 209);
+    height: 550px;
+    width: 400px;
+    border-radius: 5px;
+    margin-left: 300px;
+    padding:15px;
+    margin-top:20px;
+}
+
+.kons{
+    background-color:rgb(169, 198, 209);
+    height: 550px;
+    width: 400px;
+    border-radius: 5px;
+    margin-left: 300px;
+    padding:15px;
+    margin-top:20px;
+}
+
+.sonst{
+    background-color:rgb(169, 198, 209);
+    height: 850px;
+    width: 400px;
+    border-radius: 5px;
+    margin-left: 300px;
+    padding:15px;
+    margin-top:20px;
+}
+
+
+#submit{
+    padding:5px;
+    margin-top: 10px;
+    margin-left: 300px;
+    padding:15px;
+    margin-top:20px;
+}
+
+textarea {
+    width: 400px; 
+    height: 75px
+}
+
+.container{
+    background-color: rgb(169, 198, 209); 
+    border-radius: 15px;
+    color: black; 
+    padding: 15px;
+    width: 400px; 
+    height: 150px
+}
+
+#uname{
+    margin-left: 60px;
+    margin-top:15px;
+    width: 150px;
+}
+
+#passwort{
+    margin-left: 100px;
+    margin-top:15px;
+    width: 150px;
+}
+
+.Menue{
+
+    margin-left: 500px;
+    
+    width: 150px;
+    padding: 15px;
+}
+
+#funktion{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    background-color: gray;
+    padding: 15px; 
+    background-color: rgb(169, 198, 209) ;
+    border-radius: 15px;
+}
+
+#baustelle{
+    width: 50%;
+    height: 50%;
+}
