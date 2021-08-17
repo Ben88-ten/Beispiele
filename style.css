@@ -1,0 +1,58 @@
+
+body{
+    background-color:#BDB76B ;
+}
+
+
+#logo{
+    padding: 15px;
+   width: 20% ;
+   height: 20%;
+}
+
+.navbar-toggler{
+    padding: 15px;
+}
+.navbar-toggler{
+    padding: 15px;
+}
+
+.container{
+    
+    background-color:#F5F5DC;
+    border-radius: 15px;
+
+}
+
+
+.container2{
+    background-color: #F5F5DC;
+    margin-right: 1450px;
+    border: solid 5px gray;
+    border-radius: 15px;
+    margin-top: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+    
+    
+}
+
+.navbar-toggler2{
+    margin: 25px;
+    
+
+}
+
+.textbox{
+        background-color: bisque;
+        height: 380px;
+        width: 600px;
+        padding: 15px;
+        border:solid 1px black;
+    border-radius: 15px;
+    margin-left: 300px;
+    margin-top: -150px;
+
+   
+}
